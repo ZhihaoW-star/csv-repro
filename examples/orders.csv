@@ -1,0 +1,5 @@
+order_id,customer_id,amount,note
+order-1,customer-A,120,"comma, in note"
+order-2,customer-B,80,"two
+lines"
+order-3,customer-A,120,"a | pipe"
